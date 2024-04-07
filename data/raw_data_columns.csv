@@ -1,0 +1,17 @@
+Original Name,Type,Display Name
+Gender,object,Gender
+age,int64,Age
+education,object,Education
+currentSmoker,int64,Current Smoker
+cigsPerDay,float64,Cigarettes Per Day
+BPMeds,float64,Blood Pressure Medications
+prevalentStroke,object,Prevalent Stroke
+prevalentHyp,int64,Prevalent Hypertension
+diabetes,int64,Diabetes
+totChol,float64,Total Cholesterol
+sysBP,float64,Systolic Blood Pressure
+diaBP,float64,Diastolic Blood Pressure
+BMI,float64,BMI
+heartRate,float64,Heart Rate
+glucose,float64,Glucose
+Heart\_ stroke,object,Heart Stroke
